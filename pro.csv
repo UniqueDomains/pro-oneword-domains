@@ -203,14 +203,14 @@ prototype.pro,resell,88,88%,9,"Engineering,Manufacturing,Technology",27/02/2015 
 handbag.pro,expiring,88,80%,7,"Fashion,Retail",05/07/2023 15:15,05/07/2025 15:15,Epik LLC
 panoramic.pro,expiring,88,80%,9,Travel,17/07/2022 23:32,17/07/2025 23:32,Dynadot Inc
 tent.pro,resell,88,80%,4,Travel,03/11/2018 00:14,03/11/2025 00:14,One.com A/S
-ace.pro,available,88,56%,3,Sports,,,
+ace.pro,available,88,34%,3,Sports,,,
 brainstorm.pro,resell,88,92%,10,"Business,Education,Technology",17/02/2018 10:26,17/02/2026 10:26,Dynadot Inc
 canopy.pro,expiring,88,88%,6,"Construction,Travel",28/07/2023 15:15,28/07/2025 15:15,"Spaceship, Inc."
 knockonwood.pro,available,88,76%,13,"Entertainment,Media",,,
 wonderful.pro,sold,88,88%,9,"Entertainment,Hospitality,Media",15/07/2020 14:31,15/07/2026 14:31,Dynadot Inc
 rim.pro,available,88,88%,3,"Automotive,Fashion,Retail",,,
 tint.pro,resell,88,80%,4,"Arts,Fashion,Manufacturing",31/03/2022 13:15,31/03/2026 13:15,Automattic Inc.
-ten.pro,available,88,64%,3,"General,Mathematics",,,
+ten.pro,available,88,28%,3,"General,Mathematics",,,
 gag.pro,available,88,92%,3,"Arts,Entertainment,Media",,,
 repose.pro,available,88,80%,6,"Healthcare,Pharmaceuticals,Science",,,
 thumb.pro,resell,88,76%,5,"Healthcare,Medicine,Science",26/11/2024 15:15,26/11/2025 15:15,"Sav.com, LLC - 24"
@@ -275,7 +275,7 @@ accessory.pro,resell,84,20%,9,"Fashion,Retail,Technology",18/11/2010 08:48,18/11
 enable.pro,resell,84,88%,6,"Business,Education,Technology",12/06/2022 17:00,12/06/2026 17:00,Epik LLC
 falter.pro,expiring,84,84%,6,"Business,Education,Media",19/07/2024 19:47,19/07/2025 19:47,"NameCheap, Inc."
 generic.pro,sold,84,88%,7,"Business,Pharmaceuticals",08/09/2018 10:25,08/09/2026 10:25,Dynadot Inc
-twentyone.pro,resell,84,36%,10,Mathematics,26/01/2025 15:15,26/01/2026 15:15,"Sav.com, LLC - 37"
+twentyone.pro,resell,84,13%,10,Mathematics,26/01/2025 15:15,26/01/2026 15:15,"Sav.com, LLC - 37"
 kebob.pro,available,84,76%,5,"Food and Beverage,Hospitality,Retail",,,
 sensitive.pro,resell,84,76%,9,"Healthcare,Technology",02/02/2023 17:00,02/02/2026 17:00,Epik LLC
 swirl.pro,resell,84,96%,5,"Arts,Entertainment,Science",11/03/2020 10:18,11/03/2026 10:18,Dynadot Inc
@@ -369,7 +369,7 @@ upstate.pro,resell,82,84%,7,"Geography,Media,Real Estate",31/08/2024 17:00,31/08
 womb.pro,available,82,80%,4,"Healthcare,Medicine,Pharmaceuticals",,,
 lozenge.pro,available,82,72%,7,"Healthcare,Pharmaceuticals,Retail",,,
 hacksaw.pro,available,82,80%,7,"Construction,Engineering,Manufacturing",,,
-dozen.pro,resell,82,36%,5,Mathematics,27/09/2024 06:05,27/09/2025 06:05,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
+dozen.pro,resell,82,10%,5,Mathematics,27/09/2024 06:05,27/09/2025 06:05,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
 chaitea.pro,available,82,80%,8,Food and Beverage,,,
 amalgamate.pro,available,82,40%,10,Manufacturing,,,
 plasma.pro,resell,82,92%,6,"Healthcare,Medicine,Pharmaceuticals",17/04/2020 10:18,17/04/2026 10:18,Dynadot Inc
@@ -491,7 +491,7 @@ whirlpool.pro,available,78,100%,9,"Environment,Technology",,,
 mass.pro,sold,78,60%,4,"Engineering,General,Science",16/10/2020 14:30,16/10/2026 14:30,Dynadot Inc
 genotype.pro,available,78,76%,8,"Healthcare,Pharmaceuticals,Science",,,
 rehash.pro,available,78,92%,6,"Business,Media,Technology",,,
-twentysix.pro,available,78,52%,10,Mathematics,,,
+twentysix.pro,available,78,8%,10,Mathematics,,,
 convenient.pro,resell,78,84%,10,"Retail,Technology,Transportation",14/11/2022 17:01,14/11/2025 17:01,Epik LLC
 bicuspid.pro,available,78,72%,8,Medicine,,,
 prowess.pro,available,78,80%,7,"Business,Education,Sports",,,
@@ -615,7 +615,7 @@ bendystraw.pro,available,76,72%,11,"Food and Beverage,Hospitality,Retail",,,
 mammy.pro,available,76,80%,5,Media,,,
 Ispy.pro,available,76,48%,5,General,,,
 mum.pro,available,76,80%,3,"General,Healthcare",,,
-thirteenth.pro,available,76,24%,10,Mathematics,,,
+thirteenth.pro,available,76,4%,10,Mathematics,,,
 Christmascard.pro,available,76,80%,14,Retail,,,
 taken.pro,expired,76,76%,5,"Business,Education,General,Media",08/05/2024 17:09,08/05/2025 17:09,"Spaceship, Inc."
 grinning.pro,available,76,76%,8,"Entertainment,Healthcare,Media",,,
@@ -634,7 +634,7 @@ carouse.pro,available,76,72%,7,"Food and Beverage,Retail",,,
 system.pro,resell,76,88%,6,"Business,Engineering,Technology",10/05/2016 10:11,10/05/2026 10:11,"Spaceship, Inc."
 putthrough.pro,available,76,72%,11,"Business,Technology,Telecommunications",,,
 beckoning.pro,available,76,76%,9,"Arts,Entertainment,Media",,,
-hundredth.pro,available,76,8%,9,Mathematics,,,
+hundredth.pro,available,76,1%,9,Mathematics,,,
 spatter.pro,available,76,80%,7,"Arts,Construction,Healthcare",,,
 mrs.pro,available,76,84%,3,Media,,,
 italic.pro,available,76,84%,6,"Arts,Education,Media",,,
@@ -1612,7 +1612,7 @@ aromaticrice.pro,available,66,0%,13,Food and Beverage,,,
 videoclip.pro,available,66,84%,9,"Entertainment,Media,Technology",,,
 bigbrain.pro,available,66,88%,9,"Education,Media,Technology",,,
 fatherhood.pro,available,66,76%,10,Humanities,,,
-xxi.pro,available,66,16%,3,Mathematics,,,
+xxi.pro,available,66,10%,3,Mathematics,,,
 gaydog.pro,available,66,76%,7,"Entertainment,Health and Fitness,Media",,,
 fairsex.pro,available,66,72%,8,"Education,Humanities,Media",,,
 carol.pro,expired,66,84%,5,"Arts,Entertainment,Media",30/04/2024 17:00,30/04/2025 17:00,"Sav.com, LLC - 33"
@@ -1771,7 +1771,7 @@ missthepoint.pro,available,66,72%,14,General,,,
 enunciate.pro,available,66,76%,9,"Education,Media,Technology",,,
 answerback.pro,available,66,76%,10,"Media,Technology",,,
 upadaisy.pro,available,66,72%,8,Entertainment,,,
-xiii.pro,expiring,66,36%,4,Mathematics,06/09/2018 22:04,06/09/2025 22:04,"GoDaddy.com, LLC"
+xiii.pro,expiring,66,9%,4,Mathematics,06/09/2018 22:04,06/09/2025 22:04,"GoDaddy.com, LLC"
 abovewater.pro,available,66,72%,11,Business,,,
 guestfriendship.pro,available,66,4%,16,"General,Hospitality,Travel",,,
 circumcised.pro,available,66,68%,11,"Healthcare,Medicine,Religion",,,
@@ -2985,7 +2985,7 @@ Christiandemocracy.pro,available,60,76%,19,Politics,,,
 comedown.pro,available,60,72%,9,General,,,
 goodtimegirl.pro,available,60,72%,14,"Entertainment,Media",,,
 probationaryperiod.pro,available,60,72%,19,"Business,Education,Law",,,
-clxxx.pro,available,60,8%,5,Mathematics,,,
+clxxx.pro,available,60,1%,5,Mathematics,,,
 braking.pro,available,60,16%,7,"Automotive,General,Transportation",,,
 barexam.pro,available,60,80%,8,"Education,Law",,,
 chickenman.pro,available,60,72%,10,General,,,
@@ -3200,7 +3200,7 @@ representing.pro,available,60,72%,12,"Business,Media",,,
 poep.pro,available,60,72%,4,Media,,,
 leafcutterant.pro,available,60,8%,14,"Agriculture,Science",,,
 egovernment.pro,available,60,92%,12,"General,Politics,Technology",,,
-cxl.pro,available,60,44%,3,Mathematics,,,
+cxl.pro,available,60,7%,3,Mathematics,,,
 nearshave.pro,available,60,72%,10,"Health and Fitness,Retail",,,
 keelover.pro,available,60,72%,9,"Healthcare,Medicine,Sports",,,
 CMG.pro,available,60,92%,3,"Business,Technology",,,
@@ -4334,7 +4334,7 @@ galeras.pro,available,58,76%,7,"Environment,Geography,Science",,,
 clickworthy.pro,available,58,80%,11,"Media,Technology",,,
 partialsum.pro,available,58,72%,11,"Engineering,Mathematics,Science",,,
 gravytrain.pro,available,58,84%,11,"Business,Media,Politics",,,
-centesimal.pro,available,58,8%,10,Mathematics,,,
+centesimal.pro,available,58,1%,10,Mathematics,,,
 interlope.pro,available,58,80%,9,"Business,Law,Politics",,,
 silvern.pro,available,58,72%,7,"Arts,Fashion,Retail",,,
 ria.pro,available,58,84%,3,"Environment,Geography,Science",,,
@@ -5383,7 +5383,7 @@ acidogenesis.pro,available,54,72%,12,Science,,,
 lancepesade.pro,available,54,72%,11,Military,,,
 reactionturbine.pro,available,54,72%,16,"Energy,Engineering,Manufacturing",,,
 scooterist.pro,available,54,76%,10,Automotive,,,
-deuceace.pro,available,54,8%,9,Sports,,,
+deuceace.pro,available,54,2%,9,Sports,,,
 hitlicks.pro,available,54,72%,9,General,,,
 impishness.pro,available,54,72%,10,"Arts,Humanities,Media",,,
 herdinginstinct.pro,available,54,72%,16,"Business,Education,Science",,,
@@ -6803,7 +6803,7 @@ Barbra.pro,available,50,84%,6,General,,,
 brushbow.pro,available,50,72%,9,"Arts,Construction,Manufacturing",,,
 GMC.pro,available,50,92%,3,"Automotive,Manufacturing,Technology",,,
 CommonSlavic.pro,available,50,4%,13,"General,Geography,Humanities",,,
-triplet.pro,sold,50,40%,7,Science,14/07/2025 05:13,14/07/2026 05:13,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
+triplet.pro,sold,50,8%,7,Science,14/07/2025 05:13,14/07/2026 05:13,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
 looketh.pro,available,50,12%,7,General,,,
 turnedout.pro,available,50,72%,10,"Business,Media,Technology",,,
 CardiganBay.pro,available,50,8%,12,Travel,,,
