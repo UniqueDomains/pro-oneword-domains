@@ -1,6 +1,9 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 ebeeeb99-753c-48cf-ab85-01dafb86f2b2,stamp.pro,resell,,,64,22,5,"GoDaddy.com, LLC",17/05/2016 10:05,17/05/2026 10:05
 e98c7f55-c2f8-4333-9cb5-f7f812a2e14b,number.pro,resell,,,78,25,6,Squarespace Domains II LLC,04/06/2019 10:29,04/06/2027 10:29
+cbe89211-f604-41c6-a688-585633d345a4,crash.pro,resell,,,66,32,5,Dynadot Inc,15/06/2018 10:08,15/06/2027 10:08
+93fc8709-862c-49e0-8a19-1b7da6d75cf3,clay.pro,resell,,,80,35,4,"Chengdu West Dimension Digital Technology Co., Ltd.",14/12/2017 10:06,14/12/2027 10:06
+6d9bc6e9-7806-4a9d-bedb-98a3a438e1d3,pirate.pro,resell,,,66,36,6,Dynadot Inc,09/01/2021 14:30,09/01/2027 14:30
 d7a8e2a2-568d-46ac-b401-305d3f046238,aberrant.pro,premium,,,74,7,8,,,
 f166f1d6-49bd-4fa3-a2a7-872076fdf632,factsontheground.pro,premium,,,54,76,19,,,
 12c8981b-e7ed-4ccc-b1d8-0a16331bfed4,bourbon.pro,resell,,,62,80,7,"Sav.com, LLC - 13",01/11/2023 17:00,01/11/2025 17:00
@@ -86,7 +89,7 @@ ddb2a2c9-cfaf-485b-b7f7-ac7ad5c78688,sidestroke.pro,premium,,,56,72,10,,,
 6d2882e5-32b1-40fb-a567-81025c5df41c,moveit.pro,resell,,,,44,7,"Sav.com, LLC - 40",27/05/2025 15:16,27/05/2026 15:16
 e1dce4ce-819f-4bb0-8641-39476cb7debd,restaffing.pro,premium,,,54,72,10,,,
 dd6a2742-c73f-45a3-a8de-c65843df84b1,makars.pro,premium,,,42,8,6,,,
-af608d64-9072-48e6-8813-073c54587343,spirits.pro,resell,,,80,20,7,"Soluciones Corporativas IP, SL",08/11/2007 00:00,08/11/2026 00:00
+af608d64-9072-48e6-8813-073c54587343,spirits.pro,resell,,,80,18,7,"Soluciones Corporativas IP, SL",08/11/2007 00:00,08/11/2026 00:00
 e1298492-bb7d-474a-bfeb-4739cd20e8f7,OurLady.pro,premium,,,,80,8,,,
 24dad4aa-c624-4556-b7c5-6a4599557d62,decongestant.pro,premium,,,56,76,12,,,
 344f3d0e-f580-48de-8017-57d399ca18d0,developer.pro,resell,,,72,38,9,"NameSilo, LLC",21/06/2008 00:00,21/06/2026 00:00
@@ -310,7 +313,7 @@ bb17aeb8-0403-43cc-b152-842e5ab94b53,onthereal.pro,premium,,,,72,11,,,
 d38ede86-5fae-4597-80ac-5cac6a52d081,loungebag.pro,premium,,,42,72,10,,,
 cc4e8dd9-1daa-4dbe-88be-bd06c203dfee,groundseltree.pro,premium,,,56,72,14,,,
 dade866a-bd0c-4edc-ad7c-12a08339bbc3,grandturk.pro,premium,,,,76,10,,,
-32d2614f-319f-43a5-a680-754c6cad1664,oslo.pro,resell,,,68,24,4,"Sav.com, LLC - 35",22/02/2026 15:16,22/02/2027 15:16
+32d2614f-319f-43a5-a680-754c6cad1664,oslo.pro,resell,,,68,23,4,"Sav.com, LLC - 35",22/02/2026 15:16,22/02/2027 15:16
 38bfa27d-a07c-49ef-97f4-1a91c0f5fd4d,exchangestudent.pro,premium,,,64,68,16,,,
 49695eee-0144-411f-ad43-7d48fd10b4a3,stipends.pro,premium,,,,16,8,,,
 cef15169-0570-40f8-ada9-dd68c2eb6ce2,farmmate.pro,premium,,,64,76,9,,,
@@ -456,7 +459,7 @@ daf6dd62-4b22-410f-9d02-2c75701a4566,equestrianism.pro,premium,,,58,4,13,,,
 b4a12214-6399-43d8-b7c6-250a0c3cdf47,turningboard.pro,premium,,,,4,13,,,
 e7cd2479-8ed1-450a-8d3e-15abd67c3407,Elland.pro,premium,,,48,76,6,,,
 eee0879c-de65-44a0-8030-bca9d5fd8d96,waved.pro,premium,,,64,72,5,,,
-396af897-096b-4406-b82d-1863437faee0,television.pro,resell,,,104,22,10,Dynadot Inc,02/03/2005 00:00,02/03/2027 00:00
+396af897-096b-4406-b82d-1863437faee0,television.pro,resell,,,104,21,10,Dynadot Inc,02/03/2005 00:00,02/03/2027 00:00
 f207893c-d5f9-49e8-8cd5-bea9cc03837f,zoneofaction.pro,premium,,,,72,14,,,
 2cb7563f-73ac-4cdf-a5f0-312e9bde3fc6,Carolineminuscule.pro,premium,,,36,72,18,,,
 226172a6-ebe6-4f30-be75-8b95402dc84a,conversion.pro,resell,,,54,84,10,Registrar of Domain Names REG.RU LLC,23/11/2009 17:03,23/11/2026 00:00
@@ -1148,7 +1151,7 @@ ba3b1438-7044-43bb-8b13-14c34769edca,maintainable.pro,premium,,,54,80,12,,,
 591cfeed-60d4-415f-bc66-7a2ebd603297,speeder.pro,premium,,,60,72,7,,,
 bdb44549-da2f-471f-8cc8-0b2c9943e2eb,reckonwith.pro,premium,,,,12,11,,,
 22caccb8-5a4d-440c-8138-bdec52e2ab72,geek.pro,resell,,,90,33,4,"GKG.NET, INC.",25/06/2015 01:05,25/06/2026 01:05
-10c8ba8c-b999-430d-8fc4-b65aaafebc6a,campus.pro,resell,,,99,40,6,"GKG.NET, INC.",15/11/2007 00:00,15/11/2026 00:00
+10c8ba8c-b999-430d-8fc4-b65aaafebc6a,campus.pro,resell,,,99,38,6,"GKG.NET, INC.",15/11/2007 00:00,15/11/2026 00:00
 86a36fb7-60a0-4534-a6f1-d8c562750b96,candidness.pro,premium,,,67,72,10,,,
 bc03d39e-5376-4c4b-8209-80ee681e39b4,serially.pro,premium,,,48,80,8,,,
 57259058-9a64-43a6-9040-9fab9163b9d2,expertopinion.pro,premium,,,46,88,14,,,
@@ -1179,7 +1182,7 @@ b1c082b2-fb3d-4610-a903-835dfda8be71,househeating.pro,premium,,,56,76,13,,,
 7e4ee836-21b3-4e83-8e4e-cece04c776f5,grouppunishment.pro,premium,,,54,72,16,,,
 af09f2a4-a418-4fba-8cbf-9f59fdaf8ca8,fishtea.pro,premium,,,52,76,8,,,
 fdfac107-faad-448e-9a5e-e06d69df75fd,Rihanna.pro,premium,,,81,8,7,,,
-81e2704f-4115-4afd-847f-5e51833f766d,uproar.pro,premium,,,84,11,6,,,
+81e2704f-4115-4afd-847f-5e51833f766d,uproar.pro,premium,,,84,9,6,,,
 9379db44-0c86-4324-abaf-2c45a8e016c4,haggle.pro,premium,,,64,84,6,,,
 1036fca3-3051-432b-a817-fca6c83489b7,creeky.pro,premium,,,52,8,6,,,
 fbc4b2f9-6984-4572-ac41-cdcfb3ccd5e0,houseorgans.pro,premium,,,40,4,12,,,
@@ -1791,7 +1794,7 @@ a19b565d-eb46-4c2d-8c88-2d8b6b720733,Canadianhealthcare.pro,premium,,,68,16,19,,
 c5f28c60-a5e9-44f8-b9a3-43e1de39198c,JusticeSociety.pro,premium,,,52,12,15,,,
 8bec628e-e506-4733-9b89-72f68ab3ea74,testaments.pro,premium,,,,32,10,,,
 39307505-622f-432b-9896-1ca38cff9b10,cityadministrator.pro,premium,,,60,72,18,,,
-8fa1bb30-c85b-4dd3-95d8-2b46a251f153,cot.pro,premium,,,74,18,3,,,
+8fa1bb30-c85b-4dd3-95d8-2b46a251f153,cot.pro,premium,,,74,16,3,,,
 4f18dd7a-d94b-474d-ba9d-1b277105d6bc,ebonytree.pro,premium,,,59,72,10,,,
 1cf1d56a-0141-4d27-ae3d-a50bcc90a97e,ironcased.pro,premium,,,36,68,10,,,
 8ffcc194-d632-4d94-9150-0cd1981b37c8,horsedom.pro,premium,,,60,16,8,,,
@@ -2171,7 +2174,7 @@ ac463eb5-a0e9-483c-958e-5d0d6b039165,chiming.pro,premium,,,60,76,7,,,
 fe8e9183-78ea-4fa4-8eea-8653cee341a8,brushpast.pro,premium,,,56,72,10,,,
 5f87d100-8b33-44bf-8eca-fcdfc179e942,zsigmondy.pro,premium,,,56,72,9,,,
 3e8a7d12-3051-4e89-b7b0-eb2d3a4ded6c,vaticanii.pro,premium,,,54,72,10,,,
-157b804e-841b-481c-a32b-1a1034b0c422,cent.pro,resell,,,74,16,4,Squarespace Domains II LLC,11/06/2022 13:15,11/06/2028 13:15
+157b804e-841b-481c-a32b-1a1034b0c422,cent.pro,resell,,,74,14,4,Squarespace Domains II LLC,11/06/2022 13:15,11/06/2028 13:15
 41639084-ac04-4a52-b968-41b7998354ae,indoorvolleyball.pro,premium,,,44,8,17,,,
 79e06474-885d-4066-afb2-f3c7c0fd04b5,ontheqt.pro,premium,,,42,84,9,,,
 193ec6fe-6896-4010-a744-0f2cdeefec1d,percipient.pro,premium,,,80,88,10,,,
@@ -2465,7 +2468,7 @@ f15da79a-21e3-44b9-a7ff-3d0e3fcd83c9,hotsauce.pro,resell,,,72,80,9,"Sav.com, LLC
 67663665-917b-4979-9eaf-6212576d2a3b,suspenseful.pro,premium,,,60,72,11,,,
 2264b552-0fa9-4548-b2d6-686f515eaf61,energising.pro,premium,,,62,72,10,,,
 2fc38145-172b-4ea1-972a-4a96ff57553c,FifthWorld.pro,premium,,,46,76,11,,,
-f5db3abd-f930-46db-a221-2be420c5d495,bomb.pro,resell,,,66,21,4,"Sav.com, LLC - 48",19/06/2025 15:15,19/06/2026 15:15
+f5db3abd-f930-46db-a221-2be420c5d495,bomb.pro,resell,,,66,19,4,"Sav.com, LLC - 48",19/06/2025 15:15,19/06/2026 15:15
 e98bd4d9-94de-4baf-8b81-20f1bffbea32,hangingbasket.pro,premium,,,62,76,14,,,
 eba22f30-1ce9-4ebb-8ff7-9f56f0777f4b,utilization.pro,premium,,,,24,11,,,
 776e714e-3613-4b48-b9ed-c8d6fb16cbaf,endeavoured.pro,premium,,,36,4,11,,,
@@ -2883,7 +2886,7 @@ adeefdcb-fc47-4c1d-bdd6-a7a8faa1cbea,alittle.pro,premium,,,62,7,8,,,
 63b0eb7a-8217-45a1-a46e-54d5d1cc4ca0,discernible.pro,premium,,,58,76,11,,,
 4d8c6680-45f3-45a1-be3b-b44b24a27359,toomuchinformation.pro,premium,,,64,72,20,,,
 766719bd-bfb7-4172-af87-5ed82ff2262a,wellmaking.pro,premium,,,,8,10,,,
-96d6ea52-8b62-49de-9cf5-93dda1c0d318,hanukkah.pro,premium,,,70,11,8,,,
+96d6ea52-8b62-49de-9cf5-93dda1c0d318,hanukkah.pro,premium,,,70,10,8,,,
 74abcf71-b555-4a87-b245-180ab3058cf9,boxtappet.pro,premium,,,38,72,10,,,
 5327fa24-8a1a-4a62-b5a1-24583c8660c7,bantoid.pro,premium,,,48,1,7,,,
 5d793856-576f-4c1f-bdae-7c2281ad34ff,freighthopper.pro,premium,,,56,72,14,,,
@@ -2984,7 +2987,7 @@ c6dfffb2-5064-4135-9e57-90241cf0462a,monomania.pro,premium,,,56,80,9,,,
 d000930c-cd88-40e4-85ee-edb4d30ac5dd,infavorof.pro,premium,,,40,76,11,,,
 99360027-a6ba-440c-bbab-386591b3413a,flatcrossing.pro,premium,,,56,72,13,,,
 df143306-f5f8-4be7-8758-f22c3a27183b,AndamanIslands.pro,premium,,,56,72,15,,,
-78cab60f-5108-493c-bad0-47e2740e77eb,channukkah.pro,premium,,,68,3,10,,,
+78cab60f-5108-493c-bad0-47e2740e77eb,channukkah.pro,premium,,,68,1,10,,,
 d47ef3b4-574f-43cb-b07c-5cda3abe1eb4,Frenchthyme.pro,premium,,,70,4,12,,,
 d5892a86-cad0-4dda-822e-6973cc144266,fancies.pro,premium,,,46,24,7,,,
 9e4fabc8-cc1e-400e-aacc-655a5881c502,intimacy.pro,resell,,,61,80,8,"Sav.com, LLC - 36",13/09/2024 17:00,13/09/2025 17:00
@@ -3015,7 +3018,7 @@ ea664bc0-b3d0-4c11-9542-9868f2969c48,SNA.pro,premium,,,58,80,3,,,
 b187d4d2-eb6b-4bd1-9ae1-8f87246000a2,Hilliard.pro,premium,,,44,28,8,,,
 f65a62d0-a888-4dcd-a80b-cf27ce5a0e30,edgein.pro,premium,,,70,76,7,,,
 93894851-3baf-4269-b3c6-19d68f741b25,conformable.pro,premium,,,52,72,11,,,
-b98aaf71-0a6c-4d0f-ab49-b56ea9ef8baf,classroom.pro,resell,,,70,21,9,"Sav.com, LLC - 10",16/01/2025 15:16,16/01/2027 15:16
+b98aaf71-0a6c-4d0f-ab49-b56ea9ef8baf,classroom.pro,resell,,,70,20,9,"Sav.com, LLC - 10",16/01/2025 15:16,16/01/2027 15:16
 196fde25-8065-4aa7-a527-9a9f775f56df,sliver.pro,resell,,,78,76,6,"NameCheap, Inc.",17/06/2023 11:10,17/06/2026 11:10
 4283273c-ff19-4235-b582-15ce2cee062d,croat.pro,premium,,,60,80,5,,,
 5db10043-8b21-4899-b466-846815f40c6b,aculeate.pro,premium,,,68,1,8,,,
@@ -3585,7 +3588,7 @@ f5de33be-fb5f-482c-b641-8901c5aa3508,realnumber.pro,premium,,,56,76,11,,,
 1ba5c7c6-2241-4411-9a8f-0767975965bd,teach.pro,resell,,,68,92,5,Porkbun LLC,06/01/2008 00:00,06/01/2026 00:00
 1fcc09a6-0a66-41f9-b247-3146ac71189a,Oshawa.pro,premium,,,54,84,6,,,
 a9cdb82a-91db-4d41-bb44-dfb87ca9bb0e,tobeprecise.pro,premium,,,,76,13,,,
-9673b825-3249-4b02-b811-2586c1924cf6,condo.pro,resell,,,70,27,5,Porkbun LLC,16/08/2006 00:00,16/08/2026 00:00
+9673b825-3249-4b02-b811-2586c1924cf6,condo.pro,resell,,,70,25,5,Porkbun LLC,16/08/2006 00:00,16/08/2026 00:00
 45bd7212-1f15-4d7d-b974-4f5e4ad59847,SovietBloc.pro,premium,,,,8,11,,,
 332c9e52-cd3b-41fb-a1fd-11296460b62c,vicecaptain.pro,premium,,,62,72,12,,,
 7b449cb6-1fb8-4d23-827e-a48f44230bfa,decelerator.pro,premium,,,54,80,11,,,
@@ -3932,7 +3935,7 @@ e0683522-96c1-4989-861c-55eaba721a58,MotherTheresa.pro,premium,,,68,72,14,,,
 f8f4551d-d595-4097-8488-67f8709a5dfd,manofsteel.pro,premium,,,44,72,12,,,
 6899c201-299f-472d-adb4-c1b249d61503,gravitoturbulent.pro,premium,,,50,4,16,,,
 a8d83fb1-2611-4a1c-9688-e8c463325d74,oneup.pro,premium,,,82,92,6,,,
-cddb4756-7d83-4275-8ff9-db08f4fd7372,bravery.pro,resell,,,80,14,7,"Sav.com, LLC - 28",23/01/2026 15:15,23/01/2027 15:15
+cddb4756-7d83-4275-8ff9-db08f4fd7372,bravery.pro,resell,,,80,12,7,"Sav.com, LLC - 28",23/01/2026 15:15,23/01/2027 15:15
 20a3d165-75e6-4a1b-9e1c-d5eeb4e0846a,UNODC.pro,premium,,,58,80,5,,,
 f327ef20-79e0-4887-98f0-89e380a1af0f,hawkeyed.pro,premium,,,46,2,9,,,
 a7ca0b88-73f1-4c3a-9b76-d0bdf72c6525,powerwheel.pro,premium,,,56,72,11,,,
@@ -4059,6 +4062,7 @@ d4febeae-e48f-48c4-90be-162b70f79859,saga.pro,resell,,,62,92,4,1API GmbH,29/08/2
 d9973ee4-5b9b-41a5-958d-b0c2e1e4999e,flashdrives.pro,premium,,,58,12,12,,,
 d61f27d8-25c1-4b93-9ced-a67bd1109030,eataway.pro,premium,,,56,68,8,,,
 403e2941-34da-4eb3-b199-219b8ebcdb82,OresundBridge.pro,premium,,,,72,14,,,
+e0dd3657-a8c6-4321-9dcd-cf5e2b232de9,citizen.pro,resell,,,74,29,7,Dynadot15 LLC,11/05/2019 10:09,11/05/2027 10:09
 adcd6e25-d125-4de3-b153-5b2a938bdcd7,carbohydrate.pro,premium,,,54,72,12,,,
 c9c2d549-ecff-4a4c-a8f3-849c082697c5,beholds.pro,premium,,,46,12,7,,,
 5dcbf4a4-7b7b-4d9d-b7e8-d3be28ffce96,careen.pro,premium,,,80,80,6,,,
@@ -4511,7 +4515,7 @@ ba84f379-bdb1-408e-b336-deaf15d3bec2,southbound.pro,premium,,,58,76,10,,,
 75d67182-04cf-4fef-8527-a04f85b68bc5,diterpene.pro,premium,,,52,72,9,,,
 355713e4-6ff7-40e9-8f73-33ca95ae6c32,generalsecretary.pro,premium,,,58,72,17,,,
 f7cabcca-d0b4-4d57-af9c-192cdbbee63e,daintily.pro,premium,,,52,72,8,,,
-44adc483-62b2-4c75-bd39-bcfa6bd96745,kiss.pro,resell,,,76,33,4,"Name.com, Inc.",04/06/2008 00:00,04/06/2027 00:00
+44adc483-62b2-4c75-bd39-bcfa6bd96745,kiss.pro,resell,,,76,32,4,"Name.com, Inc.",04/06/2008 00:00,04/06/2027 00:00
 16dc1bd8-f05a-4a36-9c6d-ed3ddea79dc9,webaddress.pro,premium,,,70,92,11,,,
 42036bcb-8139-4697-a753-08de62340063,crystallizing.pro,premium,,,58,16,13,,,
 52905213-7b03-4ce9-927b-8173eb0e75b1,divinopolitical.pro,premium,,,42,4,16,,,
@@ -4857,6 +4861,7 @@ b73cee72-0024-46fc-94b8-85363d45437a,gentoopenguin.pro,premium,,,58,72,14,,,
 fbb9da08-4849-4910-b736-0940ac584ec2,economymodel.pro,premium,,,60,72,13,,,
 40a14027-7145-4d21-9f75-943b6898cc0d,ChineseCanadian.pro,premium,,,44,72,16,,,
 09dfffb5-2bfd-4eab-a68d-ea464e2439a7,gobackintime.pro,premium,,,72,1,15,,,
+8eb67622-9355-429b-835d-542ec1b25532,marihuana.pro,resell,,,67,11,9,Dynadot Inc,02/08/2018 17:32,02/08/2027 17:32
 6aac6b78-0fe9-472a-b59b-9a4b8699fc5a,homechild.pro,premium,,,60,72,10,,,
 e3bfd555-e1fa-41fb-a56b-04e50d24b888,feasts.pro,premium,,,58,24,6,,,
 a1e452f4-218c-4932-b834-9affe4714844,neology.pro,premium,,,62,76,7,,,
@@ -5010,7 +5015,7 @@ e58688ed-1cc6-45c9-ac16-773a1638d47e,motivations.pro,premium,,,48,36,11,,,
 5a4cdd7c-14ac-4615-a8a5-eca3e722e5de,servings.pro,premium,,,,16,8,,,
 79ec8d98-d6aa-4d2b-b564-0be3fbfbdd0e,gunsight.pro,premium,,,52,72,8,,,
 4f16224d-0762-4efd-bf9d-c82d20a808d1,comfortably.pro,premium,,,66,3,11,,,
-55f30fe4-322e-4217-878a-1770c01b7676,sodawater.pro,premium,,,70,5,10,,,
+55f30fe4-322e-4217-878a-1770c01b7676,sodawater.pro,premium,,,70,4,10,,,
 a16fd73e-c75f-4790-aecd-3b0400a79a25,overqualified.pro,premium,,,54,80,13,,,
 379cece8-9eab-4897-986d-a251fa1a2718,gypsum.pro,premium,,,64,76,6,,,
 75159e4d-4a64-4fde-9f95-a3b225690497,stepparent.pro,premium,,,64,2,10,,,
@@ -5253,7 +5258,7 @@ d7d3edcd-3e5b-447f-92ed-2a9fde67e7ca,chickensoup.pro,premium,,,80,84,12,,,
 68972bc2-e3e2-49ae-bca1-b156bc2497b7,childhoodfriend.pro,premium,,,64,72,16,,,
 9294e167-58b1-4ca7-851f-4be985a5716a,AustralianShepherd.pro,premium,,,68,80,19,,,
 06d345b9-f8b3-4f33-b07b-eb3c97e7e06f,massspec.pro,premium,,,58,76,9,,,
-9a965fc1-83cf-4250-954b-df9875c69bcf,send.pro,resell,,,80,40,4,"GKG.NET, INC.",16/06/2020 10:18,16/06/2026 10:18
+9a965fc1-83cf-4250-954b-df9875c69bcf,send.pro,resell,,,80,38,4,"GKG.NET, INC.",16/06/2020 10:18,16/06/2026 10:18
 c49eb8c8-7f58-42ae-bd79-50e5c7013fe5,chalking.pro,premium,,,56,8,8,,,
 038cf426-7f3b-4232-8f54-c9e500933daf,taxsystem.pro,premium,,,54,72,10,,,
 8c041c9c-2b88-46bb-a492-cfc3e45899ee,titaniumalloy.pro,premium,,,54,76,14,,,
@@ -5499,7 +5504,7 @@ cc227a13-7857-4eac-89cb-52aedec78518,cocopalm.pro,premium,,,60,76,9,,,
 936e690f-2389-4e85-8887-9aa73486796c,membershipcard.pro,premium,,,56,76,15,,,
 4fea6ab9-1097-4df8-a0d7-b999713aa25a,convalesce.pro,premium,,,71,72,10,,,
 ef815eed-84e9-4217-8de4-ded0e6a586b3,menaced.pro,premium,,,36,12,7,,,
-5e5977dd-dfad-4b2b-af2a-62418af9f5f6,cell.pro,resell,,,76,31,4,"Spaceship, Inc.",27/11/2014 22:17,27/11/2026 22:17
+5e5977dd-dfad-4b2b-af2a-62418af9f5f6,cell.pro,resell,,,76,29,4,"Spaceship, Inc.",27/11/2014 22:17,27/11/2026 22:17
 ed2f63d7-14f0-49cd-8ded-b8af899c0bcb,xylophone.pro,premium,,,84,84,9,,,
 fe7cded2-c289-4a1a-89da-72ee684656b3,Cats.pro,resell,,,60,32,4,Edomains LLC,16/08/2023 23:52,16/08/2025 23:52
 678d0d6f-5289-490b-9041-d8b92757b7e4,clearsailing.pro,premium,,,76,76,13,,,
@@ -5729,7 +5734,7 @@ a558e604-7b17-42ae-9a8c-0668c326a86d,appleturnover.pro,premium,,,62,72,14,,,
 05b40cb1-ce97-4884-965d-5b7355b1571b,supermassive.pro,premium,,,52,88,12,,,
 053b0c30-d9b7-48df-9b19-71a255cd1f8f,pelvises.pro,premium,,,,8,8,,,
 d0b82c5c-de1e-46b9-b849-10dd50adc8b8,trespassoffering.pro,premium,,,58,72,17,,,
-2cb40066-5f12-4759-9337-1a4333a615d6,mount.pro,resell,,,58,21,5,Dynadot Inc,14/09/2024 15:15,14/09/2026 15:15
+2cb40066-5f12-4759-9337-1a4333a615d6,mount.pro,resell,,,58,19,5,Dynadot Inc,14/09/2024 15:15,14/09/2026 15:15
 21561320-db8c-41f4-b557-443927958433,totheletter.pro,premium,,,,72,13,,,
 78bb783e-eafd-4f0c-9bc8-50a776ddc078,Chinesechikwando.pro,premium,,,44,72,17,,,
 7895af64-77f4-40e4-8803-aab320ad8a22,altepetl.pro,premium,,,54,16,8,,,
@@ -6102,6 +6107,7 @@ abbe3881-9bb0-462d-ab75-319b60b89a42,terraced.pro,premium,,,,8,8,,,
 7f80413b-cc32-4b50-92f7-e9530ee3065e,backative.pro,premium,,,52,72,9,,,
 a1a5cbe5-729e-470e-afe0-5193a7f08e97,spotlight.pro,resell,,,90,92,9,Dynadot Inc,30/03/2020 10:17,30/03/2026 10:17
 50122b84-3f5a-43d1-9d1e-b5b8ac71e8f8,reedit.pro,premium,,,66,76,7,,,
+9212a445-3270-415f-bb66-0ec468c6c4bc,bird.pro,resell,,,72,42,4,"GKG.NET, INC.",31/03/2022 13:15,31/03/2027 13:15
 f8bbc1c2-b6e2-45e0-9364-e53ef4d3c96c,swingingbunt.pro,premium,,,58,72,13,,,
 a5f8ef2d-60e0-4caf-b0bc-c32cdf781642,dualaudio.pro,premium,,,54,72,10,,,
 65c0ae93-5016-4838-b57a-f483f4b196c0,peaseblossom.pro,premium,,,,16,13,,,
@@ -6111,7 +6117,7 @@ d05cc2bd-8e75-4071-ba1d-5e47a78a618c,evolutionist.pro,premium,,,54,76,12,,,
 c04019b6-cc57-4ae1-adea-fba1cac48071,Nevaeh.pro,premium,,,58,80,6,,,
 a5a5f0f8-1833-466b-9d5a-932e99b18370,FCU.pro,premium,,,56,84,3,,,
 4533929a-5867-46de-8c4f-9b5d517a5ee1,puppyfoot.pro,premium,,,,76,10,,,
-ee81adb4-ed82-408f-b5b2-a5972858443b,nashville.pro,resell,,,86,28,9,"GoDaddy.com, LLC",15/11/2019 04:17,15/11/2026 04:17
+ee81adb4-ed82-408f-b5b2-a5972858443b,nashville.pro,resell,,,86,25,9,"GoDaddy.com, LLC",15/11/2019 04:17,15/11/2026 04:17
 1a7aee7a-6456-4403-bf54-030eb3d60005,threemartinilunch.pro,premium,,,60,76,19,,,
 6e4074fe-e27c-493d-9d63-4cf76f410814,keystroke.pro,premium,,,74,92,9,,,
 bbf713d1-7251-4f8b-b3cf-c694ca0ca8e0,gorgeousness.pro,premium,,,60,72,12,,,
@@ -6381,7 +6387,7 @@ a42eaea2-06a5-41c2-b4ef-c8a9e86d13c2,kingofsix.pro,premium,,,54,72,11,,,
 5e7ddd61-6856-4ac1-b70b-c0fb9d7f5366,zzz.pro,premium,1300,1300,88,88,3,namecheap,,
 b3958fbf-83d7-4102-89f6-ccd0efbe23c3,funnelling.pro,premium,,,52,72,10,,,
 00d83db2-5234-45d0-9a09-1e334fa9b7c2,comedown.pro,premium,,,60,72,9,,,
-a8d719a6-a27b-49e9-8498-57352fc2c423,claimform.pro,premium,,,66,5,10,,,
+a8d719a6-a27b-49e9-8498-57352fc2c423,claimform.pro,premium,,,66,3,10,,,
 f843a374-803e-4ad7-92b8-614f879274df,Statherian.pro,premium,,,62,72,10,,,
 51566152-01b8-412c-8c9a-3dcf36225bf3,pizzawoman.pro,premium,,,,72,11,,,
 3c9a030b-0467-418c-af3d-a3066e9c2674,unspoiled.pro,premium,,,56,72,9,,,
@@ -6507,7 +6513,7 @@ a37c840d-3cf6-452b-a593-903068c6132f,fmt.pro,premium,,,78,88,3,,,
 c1116170-a759-4000-99f5-fee285f548cb,fairenough.pro,premium,,,62,76,11,,,
 1a33cc5e-9694-489d-8064-afb84a8ad7e0,manmagnet.pro,premium,,,62,72,10,,,
 e4cf9738-0e0b-472d-814a-397e885f8cfb,barwood.pro,premium,,,48,76,8,,,
-fffec5d9-4897-4672-bcca-db80e2ccbdbb,boxing.pro,resell,,,74,23,6,"Sav.com, LLC - 15",02/06/2025 15:15,02/06/2026 15:15
+fffec5d9-4897-4672-bcca-db80e2ccbdbb,boxing.pro,resell,,,74,21,6,"Spaceship, Inc.",02/06/2025 15:15,02/06/2027 15:15
 f2fca487-8959-4499-b9b5-ea8d9021599b,plateauing.pro,premium,,,,4,10,,,
 4fb80c7f-3874-4819-9326-8f0634e53b8d,Bugatti.pro,premium,,,92,88,7,,,
 0c4dec2b-a346-411b-83b9-d417a49c88ef,nowadays.pro,premium,,,63,9,8,,,
@@ -6631,7 +6637,7 @@ bf9b2ca2-9b11-43bd-887c-6b1a6613c6cf,freedomgas.pro,premium,,,58,72,11,,,
 4c8d5ef6-2158-4463-ab35-4d4f5ef9fc26,abloom.pro,premium,,,72,5,6,,,
 d730e130-8cdb-4e76-b035-02c1a4fecc62,goingDutch.pro,premium,,,44,76,11,,,
 356726b3-644c-4aa8-b4e8-9362966b73ae,babybouncer.pro,premium,,,46,72,12,,,
-2145f0ae-44c2-4aaa-b5a9-77879e3d9574,wall.pro,resell,,,72,31,4,"Spaceship, Inc.",07/08/2024 15:15,07/08/2026 15:15
+2145f0ae-44c2-4aaa-b5a9-77879e3d9574,wall.pro,resell,,,72,29,4,"Spaceship, Inc.",07/08/2024 15:15,07/08/2026 15:15
 a1d38539-0465-4c14-9010-e571857214f9,vegie.pro,premium,,,64,72,5,,,
 7a8d970a-e261-43bc-b06f-c66ed22b4134,shavinglotion.pro,premium,,,66,72,14,,,
 e2eee0da-e646-4a12-86ec-2ab1a0aa235b,Australianizes.pro,premium,,,38,4,14,,,
@@ -6769,7 +6775,7 @@ c8852a47-bcdf-4811-b3ab-27dfb638809e,factoryreset.pro,premium,,,60,84,13,,,
 6930fe5d-6fa4-4b1c-8170-52797d9ebfd8,matchups.pro,premium,,,42,32,8,,,
 34264f05-6790-47ce-b388-ec52d2862f96,Africanbullfrog.pro,premium,,,58,72,16,,,
 ee0e137d-4bc5-4f81-9ba4-af5a7f0d184a,friendhood.pro,premium,,,58,72,10,,,
-ec9e3406-9060-46ef-8c60-c747e5546a2d,bruise.pro,premium,,,84,8,6,,,
+ec9e3406-9060-46ef-8c60-c747e5546a2d,bruise.pro,premium,,,84,6,6,,,
 cf1381e0-c343-4906-9cae-e06debaf8c2a,Copperbelt.pro,premium,,,46,72,10,,,
 f3652589-c657-4ccf-9d11-fd2e0fddb232,sanitarypad.pro,premium,,,60,72,12,,,
 608d948b-c612-4777-a35a-a8fb2953c733,nightcourt.pro,premium,,,,72,11,,,
@@ -6897,7 +6903,7 @@ c6fed5c7-de80-4ce5-98f6-b5edf8ba9178,advisory.pro,resell,,,80,17,8,Virtualia LLC
 2b790e53-04c3-4a8f-8947-7bd4c995ad67,Africanlily.pro,premium,,,64,72,12,,,
 df29048f-3f32-4919-9967-b2125c373429,midsummer.pro,premium,,,58,76,9,,,
 aab5d377-2db5-40fa-a3a7-ab1ea9514a04,refrigeratorpie.pro,premium,,,64,72,16,,,
-6c76ed39-42cc-4cf8-aae1-dea067ced223,london.pro,resell,,,76,47,6,Registrar of Domain Names REG.RU LLC,02/03/2005 00:00,02/03/2027 00:00
+6c76ed39-42cc-4cf8-aae1-dea067ced223,london.pro,resell,,,76,43,6,Registrar of Domain Names REG.RU LLC,02/03/2005 00:00,02/03/2027 00:00
 bd1dd3b1-fd7e-4af1-8fcb-520afae51d0d,GrandHaven.pro,premium,,,,20,11,,,
 dbf045b2-44d3-4c51-903d-b1601bd5ad88,poppyhead.pro,premium,,,,72,10,,,
 6846a8c6-7961-407b-ae8f-4c132c093d94,biteoff.pro,premium,,,56,72,8,,,
@@ -7101,7 +7107,7 @@ ff2c1c2a-a472-4a5f-8b42-e5584cfecddb,goaltend.pro,premium,,,70,72,8,,,
 1b4d1373-da17-4638-8c93-e07a7a08d0f4,RheaCounty.pro,premium,,,,16,11,,,
 3c1240fa-84ad-40e3-a961-8ae774d5835d,intheoffing.pro,premium,,,52,72,13,,,
 4b4c8861-408f-4de0-a16e-ebcf1d4bc76b,termday.pro,premium,,,56,72,8,,,
-c125792e-d75e-4896-a7d6-3e5ce151f7a2,holly.pro,resell,,,56,28,5,Netregistry Wholesale Pty Ltd,18/05/2025 15:15,18/05/2027 15:15
+c125792e-d75e-4896-a7d6-3e5ce151f7a2,holly.pro,resell,,,56,25,5,Netregistry Wholesale Pty Ltd,18/05/2025 15:15,18/05/2027 15:15
 e77d70f8-a901-4477-b6c1-0a9b40694d14,grainelevator.pro,premium,,,56,72,14,,,
 41c9b5da-918b-48a0-b041-316ae85dbb61,perfectnumber.pro,premium,,,66,72,14,,,
 e05b892c-d76a-41ea-88cc-a66832db7fb1,welshpony.pro,premium,,,,72,10,,,
@@ -7333,7 +7339,7 @@ f58576b9-d8ce-4ca2-b2f0-e0c5726dbcce,fishfinders.pro,premium,,,36,20,11,,,
 7744e51c-9d45-4cc9-ae89-21aa57eebac9,aromaticvinegar.pro,premium,,,48,4,16,,,
 42c6e4d1-9c77-4418-b88e-07cc5e22537b,stringband.pro,premium,,,56,72,11,,,
 14b310aa-f2d3-465f-969e-d8ea966a4e0b,longsword.pro,premium,,,58,80,9,,,
-75b1287b-a0b9-4e05-be73-d70b7cd15c81,people.pro,resell,,,102,44,6,"Spaceship, Inc.",18/05/2024 15:15,18/05/2026 15:15
+75b1287b-a0b9-4e05-be73-d70b7cd15c81,people.pro,resell,,,102,41,6,"Spaceship, Inc.",18/05/2024 15:15,18/05/2026 15:15
 175262db-71ef-4127-bac9-df1999263c39,coughreliever.pro,premium,,,38,72,14,,,
 33e7e6aa-3811-4ce6-afb9-4ee5ed16bdb0,autophytic.pro,premium,,,48,1,10,,,
 af0ade3a-8847-4d9b-84ec-a2d25ebf1be1,Keynesianize.pro,premium,,,38,4,12,,,
@@ -7381,7 +7387,7 @@ bc1901b3-dc94-4cad-8e39-5683424370c9,computerization.pro,premium,,,62,24,15,,,
 2a5c8632-c9e5-48ac-87ac-75ca44fa75b4,stoichiometry.pro,premium,,,,12,13,,,
 6acda066-e58c-46f9-9ad9-1292ea5e011c,pieceofluck.pro,premium,,,,72,13,,,
 011b8bb9-5015-447e-89a5-bf540edfae82,showpiece.pro,premium,,,68,76,9,,,
-0e2b9832-de4f-4f20-8ce3-3f397c981a4e,checkinto.pro,premium,,,70,4,10,,,
+0e2b9832-de4f-4f20-8ce3-3f397c981a4e,checkinto.pro,premium,,,70,2,10,,,
 79344719-363e-4c26-8129-f3968c521679,milled.pro,premium,,,56,80,6,,,
 5a4da6b3-a30a-4317-920b-bf810edb5a31,Ellaville.pro,premium,,,44,72,9,,,
 ae7fb4c8-708b-4300-93ba-37a5ba5daf1b,flatspring.pro,premium,,,36,72,11,,,
@@ -8436,7 +8442,7 @@ bc2fb24c-f518-46d3-8232-66a6325d42d2,morefoolyou.pro,premium,,,,72,13,,,
 25b725cd-0501-45a0-bc80-9a93dd64e2c9,Colten.pro,premium,,,50,80,6,,,
 5e5c2e9c-abbb-45c3-970d-38f7e1be7fdf,courtorders.pro,premium,,,36,12,12,,,
 5ba30da4-2b87-4381-8cdd-56597dd69f9c,greenmanuring.pro,premium,,,46,4,14,,,
-ad17e5ed-15f2-403d-9c5d-4545c5c77cb9,lookinto.pro,premium,,,70,5,9,,,
+ad17e5ed-15f2-403d-9c5d-4545c5c77cb9,lookinto.pro,premium,,,70,3,9,,,
 17bd6ee2-d60f-4ecb-9315-c1deddc9affa,cargodeck.pro,premium,,,56,72,10,,,
 9ed02b93-a805-42cf-bcce-7bfd534c1a78,boyfriend.pro,resell,,,72,80,9,One.com A/S,12/01/2019 09:38,12/01/2026 09:38
 74394546-736d-4374-bf68-53128c27c4ed,debitaccount.pro,premium,,,66,72,13,,,
@@ -8520,6 +8526,7 @@ b1964305-7792-4fb9-b718-da7e6e58b9dd,smoothing.pro,premium,,,62,80,9,,,
 aa857982-1faf-4fb7-936f-96e9e9206fb7,tacking.pro,premium,,,56,76,7,,,
 42e8fce5-5ac3-440a-a98e-4f9a01c6e352,beholdenness.pro,premium,,,54,4,12,,,
 02fdec3d-d2ee-491d-9c81-36c399214559,alluringly.pro,premium,,,48,72,10,,,
+6000f192-42fb-43c3-b65d-df9e92a7282c,commodity.pro,resell,,,70,18,9,Dynadot Inc,27/01/2020 10:08,27/01/2027 10:08
 cb218935-742d-486e-b09c-98bb9182d504,resolute.pro,resell,,,94,21,8,Dynadot Inc,30/08/2019 10:12,30/08/2027 10:12
 87c1ee0a-aa18-4904-b879-f782755aa977,bunked.pro,premium,,,44,20,6,,,
 3325edc7-4378-41e0-afaf-ccf1492cf9df,clients.pro,resell,,,58,60,7,Registrar of Domain Names REG.RU LLC,25/11/2011 00:18,25/11/2026 00:00
@@ -8634,7 +8641,7 @@ c2e8c464-d75e-4962-ae69-2e9a41524e25,arithmeticsequence.pro,premium,,,62,72,19,,
 f7d966d8-c707-49ea-8c60-f284c111f144,payrate.pro,premium,,,56,80,8,,,
 2525975f-7bd9-42ea-ab0d-7861c8a97b78,pros.pro,premium,,,,56,4,,,
 72f2f4e5-10a1-43dc-b782-67af338c35b1,passwordwallet.pro,premium,,,60,72,15,,,
-beefd23f-a5c3-40ca-a79f-1e7a681350a6,cincinnati.pro,resell,,,86,18,10,"Sav.com, LLC",10/01/2026 17:01,10/01/2027 17:01
+beefd23f-a5c3-40ca-a79f-1e7a681350a6,cincinnati.pro,resell,,,86,14,10,"Sav.com, LLC",10/01/2026 17:01,10/01/2027 17:01
 2e572f73-59a3-46b8-a76a-5ec770d1a343,bannerroll.pro,premium,,,56,72,11,,,
 05b827c2-03f1-4418-b77b-a73cf9882fa4,modifier.pro,premium,,,54,72,8,,,
 562926c3-592d-4f91-a9de-da627d28ec37,PunchandJudy.pro,premium,,,58,76,14,,,
@@ -8884,7 +8891,7 @@ f58e5e88-341b-4a79-abab-a53bb13bb1ed,jacobinic.pro,premium,,,55,72,9,,,
 c545b9de-a01a-4f9a-8943-c2ba50ceab66,sliceanddice.pro,premium,,,,76,14,,,
 c537752b-c85a-498f-a25a-704a92c9c608,employs.pro,premium,,,38,16,7,,,
 2a5a153f-fc24-4f8b-9c86-3ef69fff6706,windsor.pro,resell,,,66,23,7,"Sav.com, LLC - 7",23/10/2023 17:00,23/10/2026 17:00
-659fcaae-e1ab-4522-9f8d-d8f1605f7200,shin.pro,resell,,,62,22,4,"Spaceship, Inc.",30/06/2022 13:15,30/06/2026 13:15
+659fcaae-e1ab-4522-9f8d-d8f1605f7200,shin.pro,resell,,,62,21,4,"Spaceship, Inc.",30/06/2022 13:15,30/06/2026 13:15
 38726f75-0cf9-4baa-b37e-bc420484afa5,manor.pro,resell,,,58,80,5,Dynadot Inc,26/02/2021 14:31,26/02/2026 14:31
 aebfe8ff-5ab9-4474-8dd8-2073d4e829de,prawncracker.pro,premium,,,56,72,13,,,
 d8d487bb-dc34-4724-a116-07cdf0aa8ba1,catheter.pro,premium,,,54,80,8,,,
@@ -9185,6 +9192,7 @@ ed14f62e-49ac-4269-808b-bcdf54610a1d,thickshake.pro,premium,,,62,72,10,,,
 0a75c157-fb90-45b2-8c0c-8ba3fcd6dadd,streetcrime.pro,premium,,,,2,12,,,
 0bd6fa62-b937-4283-9a3f-8f7f5af1be13,graphicnovelist.pro,premium,,,62,72,16,,,
 cacc20e5-35da-4fd1-88c7-c4812fc40cce,thatmuch.pro,premium,,,44,72,9,,,
+4f592916-382b-4113-b6d0-97a939d35cc6,butterfly.pro,resell,,,96,38,9,Dynadot Inc,03/01/2019 10:12,03/01/2027 10:12
 e2fca8f0-3d4b-4f19-ab79-0088d474bfeb,loosecoupling.pro,premium,,,56,72,14,,,
 2e1622c1-6557-4e89-b15d-9bcde35a444c,comeoffsecondbest.pro,premium,,,60,72,20,,,
 296e10d4-7349-4048-945c-c27c1f644541,globetrot.pro,premium,,,82,76,10,,,
@@ -9710,7 +9718,7 @@ b596bcd3-3e8a-4bd0-9951-7e0020e6fa87,anthropomorphize.pro,premium,,,58,72,16,,,
 2ccc807e-e28a-445b-af70-e379b6fddd8a,BlackForestgateaus.pro,premium,,,50,4,20,,,
 e14f3d92-e9c6-4dfa-9ec6-e800c332ca9f,youthcentre.pro,premium,,,66,72,12,,,
 bd35629d-4a05-4c54-821b-d403bae83bfd,rollinginit.pro,premium,,,,20,13,,,
-99b413a5-e7c1-40b6-b375-71444312bebf,return.pro,resell,,,102,27,6,One.com A/S,24/07/2018 10:22,24/07/2026 10:22
+99b413a5-e7c1-40b6-b375-71444312bebf,return.pro,resell,,,102,25,6,One.com A/S,24/07/2018 10:22,24/07/2026 10:22
 49765f8c-d9b3-42ae-9601-2b9178f72247,breakouts.pro,premium,,,38,28,9,,,
 c7be44a2-78cf-44fa-9c55-0813650c7e35,restfully.pro,premium,,,52,76,9,,,
 784fc64d-4989-4c16-aeba-75416c3cd875,midwinter.pro,premium,,,58,80,9,,,
@@ -9728,7 +9736,7 @@ ddaecff7-7d12-46b3-baa7-e0a1b72980ba,fiveleaf.pro,premium,,,40,76,9,,,
 88668cc1-8846-4331-8815-03a660678836,pinwheel.pro,premium,,,82,88,8,,,
 2c56985f-4cd5-441d-a94a-bc3492a0069f,cyberadvocacy.pro,premium,,,64,12,13,,,
 3eff5b0f-e446-47d0-a64e-b49559e9cbc4,determinably.pro,premium,,,48,72,12,,,
-fadd1075-b074-4f35-9599-878180794baa,lemon.pro,resell,,,66,40,5,"Spaceship, Inc.",13/12/2008 00:00,13/12/2026 00:00
+fadd1075-b074-4f35-9599-878180794baa,lemon.pro,resell,,,66,41,5,"Spaceship, Inc.",13/12/2008 00:00,13/12/2026 00:00
 1d77ad00-1b4b-4cc1-b08f-8b4e1478f2d2,indicativeplanning.pro,premium,,,56,72,19,,,
 4468ca9f-3f1e-4495-b966-4919c3f34f57,ricegrowing.pro,premium,,,,72,12,,,
 b7e7c2da-3ff0-4992-9556-7c7be1e5351f,centrocytes.pro,premium,,,32,4,11,,,
@@ -9991,11 +9999,3 @@ bc3124bd-6925-4105-8e05-117f3d178795,contextual.pro,resell,,,62,92,10,"Sav.com, 
 986135e5-0d98-4cd2-8edc-5c045f4fb95a,navigating.pro,premium,,,,44,10,,,
 4e09901f-460f-46f5-b8b4-9f53821c4a39,pictographic.pro,premium,,,72,76,12,,,
 112b0d26-d6d3-41e1-ac82-e138b8ffc15e,fair.pro,resell,,,106,37,4,Dynadot3 LLC,11/12/2018 10:25,11/12/2027 10:25
-aaa6d1a7-f624-4520-9462-07a276c5aa8f,galbanum.pro,premium,,,54,72,8,,,
-ac73a921-a201-44fa-890a-baa9f7b8232d,contributor.pro,premium,,,60,84,11,,,
-0d19effc-43e4-4d46-8966-8d227e2e8893,indicativemood.pro,premium,,,56,72,15,,,
-487fa4d5-d4d3-4971-b720-61d26979b26f,houseofillfame.pro,premium,,,58,8,17,,,
-6beff46e-105a-46a6-bbc8-b1c7e97d0e34,twostrokeengine.pro,premium,,,58,72,17,,,
-39f2f6c4-b4b9-4fbb-a2b4-773d9950549a,highschool.pro,resell,,,72,15,10,Registrar of Domain Names REG.RU LLC,20/05/2021 14:31,20/05/2026 14:31
-7ffd7617-e03e-4f17-afd4-830bd9bc5199,greenpollack.pro,premium,,,38,72,13,,,
-12c0ad47-4bfa-4ac1-85a4-be0f60033cc7,portholes.pro,premium,,,,24,9,,,
