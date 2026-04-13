@@ -81,7 +81,7 @@ print(df.head())
 | like.pro              | premium   | $11,500   | $35.99        | 84             | 35     | 4      | NameCheap, Inc.         |
 | abbot.pro             | available | $4.99     | $33.99        | 50             | 80     | 5      | name.com                |
 | subway.pro            | resell    | —         | —             | 84             | 96     | 6      | Sav.com, LLC - 42       |
-| sly.pro               | premium   | $500      | $500          | 60             | 19     | 3      | name.com                |
+| sly.pro               | premium   | $500      | $500          | 60             | 18     | 3      | name.com                |
 | armedforces.pro       | available | $30.98    | —             | 50             | 80     | 12     | namecheap               |
 | gadget.pro            | resell    | —         | —             | 74             | 96     | 6      | Porkbun LLC             |
 
