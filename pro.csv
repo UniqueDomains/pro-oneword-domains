@@ -255,6 +255,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 8b716ebd-24ea-4521-9696-30aab3163ef5,empowering.pro,resell,,,82,14,10,Dynadot Inc,27/01/2020 10:09,27/01/2027 10:09
 8b8d05da-db68-449c-9ec1-d03072e1bb97,turnedoff.pro,available,4.99,,42,1,10,name.com,,
 8c4cbc08-2a8a-4dee-a3b1-cc85b3872cb6,quitting.pro,available,4.99,,54,4,8,name.com,,
+8d5f3798-0eb2-4402-a21c-c3177bdb8abd,soundbar.pro,premium,,,78,6,8,,,
 8da74d27-f4c6-4988-95b4-0b89d8529aa6,beridof.pro,available,4.99,,46,1,9,name.com,,
 8e4de587-9b19-4170-83ef-83902b5bfa37,shelter.pro,resell,,,76,26,7,Dynadot Inc,17/07/2018 10:22,17/07/2027 10:22
 8e70a8d9-4f9f-4282-ba27-4ba0741867a6,Ichooseviolence.pro,available,33.98,,44,1,17,namecheap,,
@@ -479,7 +480,7 @@ f7a93567-1132-4d7b-ac9f-7235ff4cadf6,massages.pro,resell,,,61,10,8,"Sav.com, LLC
 f7dc1a06-a3c5-42a4-9cf7-456c0f433d25,havenot.pro,available,3.58,29.49,66,4,8,namesilo,,
 f7ecd488-60c6-4e2a-823b-dc9ac9282d38,norms.pro,available,4.99,,45,7,5,name.com,,
 f7ee6aae-b528-426a-8895-7a18a5f0829b,threats.pro,available,3.58,29.49,44,8,7,namesilo,,
-f8eac88a-536d-42ec-8818-634e6a859a41,clickbait.pro,resell,,,66,11,9,"Sav.com, LLC",09/02/2026 20:14,09/02/2027 20:14
+f8eac88a-536d-42ec-8818-634e6a859a41,clickbait.pro,resell,,,66,12,9,"Sav.com, LLC",09/02/2026 20:14,09/02/2027 20:14
 f8ede603-83ba-495f-b667-c3bbe1b74d77,grandparents.pro,available,4.99,,68,5,12,name.com,,
 f91f5e08-52dd-40e1-8177-d9ccd047e720,movingforward.pro,available,4.99,,56,8,14,name.com,,
 f92b482c-aaad-4a52-aa68-08cb4fc4b40d,traveller.pro,resell,,,72,13,9,Dynadot Inc,25/12/2017 10:08,25/12/2027 10:08
@@ -998,4 +999,3 @@ aedacd14-6999-4890-8a5f-9554fa3fc788,UKgarage.pro,premium,,,,16,9,,,
 89c28697-9778-4c8d-a074-3132cb0aa9ab,bottomdwelling.pro,premium,,,46,76,15,,,
 43eb9f53-5cd5-4266-8eb8-dc1fb4162dc7,rimy.pro,premium,,,53,76,4,,,
 299cb021-0d50-4678-8901-b0abb8977f49,coinsure.pro,premium,,,56,84,8,,,
-13a32c9c-2208-465b-b8b7-d559438f863e,byfitsandstarts.pro,premium,,,38,72,18,,,
