@@ -65,25 +65,25 @@ print(df.head())
 | domain         | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                            |
 | -------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------ |
 | hardcheese.pro | available | $4.99      | $33.99        | 78             | 72     | 11     | name.com                             |
-| gadget.pro     | resell    | —          | —             | 74             | 96     | 6      | Porkbun LLC                          |
-| etc.pro        | premium   | $3,125     | —             | 58             | 34     | 3      | name.com                             |
+| gods.pro       | resell    | $1,355.07  | —             | 72             | 29     | 4      | GKG.NET, INC.                        |
+| etc.pro        | premium   | $3,125     | —             | 58             | 32     | 3      | name.com                             |
 | crows.pro      | available | $3.58      | $29.49        | 68             | 12     | 5      | namesilo                             |
-| tequila.pro    | resell    | —          | —             | 64             | 96     | 7      | Sav.com, LLC - 4                     |
-| gods.pro       | premium   | $1,355.07  | —             | 72             | 27     | 4      | Netregistry Wholesale Pty Ltd        |
-| Amazons.pro    | available | $3.58      | $29.49        | 60             | 12     | 7      | namesilo                             |
-| harry.pro      | resell    | —          | —             | 58             | 96     | 5      | Dynadot5 LLC                         |
+| gadget.pro     | resell    | —          | —             | 74             | 96     | 6      | Porkbun LLC                          |
 | styling.pro    | premium   | $21,188.34 | —             | 78             | 11     | 7      | Dynadot Inc                          |
-| gives.pro      | available | $4.99      | —             | 52             | 12     | 5      | name.com                             |
-| method.pro     | resell    | —          | —             | 94             | 92     | 6      | GKG.NET, INC.                        |
+| Amazons.pro    | available | $3.58      | $29.49        | 60             | 12     | 7      | namesilo                             |
+| tequila.pro    | resell    | —          | —             | 64             | 96     | 7      | Sav.com, LLC - 4                     |
 | Joe.pro        | premium   | —          | —             | 74             | 100    | 3      | —                                    |
-| prayers.pro    | available | $4.99      | —             | 62             | 11     | 7      | name.com                             |
-| anchor.pro     | resell    | —          | —             | 62             | 88     | 6      | Registrar of Domain Names REG.RU LLC |
+| gives.pro      | available | $4.99      | —             | 52             | 12     | 5      | name.com                             |
+| harry.pro      | resell    | —          | —             | 58             | 96     | 5      | Dynadot5 LLC                         |
 | MSN.pro        | premium   | —          | —             | 52             | 100    | 3      | —                                    |
-| failed.pro     | available | $4.99      | —             | 60             | 11     | 6      | name.com                             |
-| signer.pro     | resell    | —          | —             | 60             | 88     | 6      | Epik LLC                             |
+| prayers.pro    | available | $4.99      | —             | 62             | 11     | 7      | name.com                             |
+| method.pro     | resell    | —          | —             | 94             | 92     | 6      | GKG.NET, INC.                        |
 | mondrian.pro   | premium   | —          | —             | 66             | 96     | 8      | —                                    |
+| failed.pro     | available | $4.99      | —             | 60             | 11     | 6      | name.com                             |
+| anchor.pro     | resell    | —          | —             | 62             | 88     | 6      | Registrar of Domain Names REG.RU LLC |
+| retime.pro     | premium   | —          | —             | 78             | 92     | 6      | —                                    |
 | mynameis.pro   | available | $4.99      | —             | 50             | 11     | 10     | name.com                             |
-| finite.pro     | resell    | —          | —             | 82             | 84     | 6      | Sav.com, LLC - 16                    |
+| signer.pro     | resell    | —          | —             | 60             | 88     | 6      | Epik LLC                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

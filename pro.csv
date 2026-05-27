@@ -30,12 +30,12 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0ecc3512-43e6-47ca-ac17-e6fbabe939d0,wars.pro,resell,,,48,10,4,One.com A/S,13/10/2021 14:30,13/10/2026 14:30
 0edfc2a1-a637-4ef9-9e72-6f4e73346954,toexcess.pro,available,4.99,,55,0,9,name.com,,
 0f067e2e-5fb6-4cc8-b2bf-4c36fa01cc46,waitup.pro,available,4.99,,63,2,7,name.com,,
-0faa8026-d1ef-46e9-aead-0cef3b802da6,highsociety.pro,available,4.99,,73,8,12,name.com,,
+0faa8026-d1ef-46e9-aead-0cef3b802da6,highsociety.pro,available,4.99,,73,9,12,name.com,,
 0fcfd780-bd29-49df-abe3-33f39da60037,alcoholproblem.pro,available,4.99,,30,1,15,name.com,,
 10233132-0c5e-4b1e-abb9-c61cb4a98d5c,childmurderer.pro,available,4.99,,30,1,14,name.com,,
 1113827f-5f0a-4fe2-963d-c3c57eacb561,stitches.pro,available,4.99,,46,9,8,name.com,,
 11a3749a-3c61-4b73-8237-4b0b3ade5184,devoured.pro,available,3.58,29.49,40,3,8,namesilo,,
-128acc6f-7e4c-480c-98a4-e1db4031f5d8,distresscall.pro,available,4.99,,32,1,13,name.com,,
+128acc6f-7e4c-480c-98a4-e1db4031f5d8,distresscall.pro,available,4.99,,32,0,13,name.com,,
 130115ad-070b-4411-bfa3-1b022ff92cff,rubs.pro,available,3.58,29.49,52,6,4,namesilo,,
 131ba51e-fa48-4119-916f-e3adf820a518,legend.pro,resell,,,72,33,6,"Chengdu West Dimension Digital Technology Co., Ltd.",05/09/2017 10:07,05/09/2027 10:07
 13203d31-9104-4af3-82cc-1f7176339523,brothers.pro,resell,,,60,22,8,"Sav.com, LLC - 17",07/07/2023 17:00,07/07/2026 17:00
@@ -130,7 +130,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 439a2cd0-7494-4202-bf1e-ab68fb127afd,wordofmouth.pro,resell,,,64,19,13,"Sav.com, LLC - 49",25/04/2026 15:16,25/04/2027 15:16
 44e23daa-adbb-449b-b226-0853aaff86f9,came.pro,resell,,,70,10,4,"Sav.com, LLC - 1",21/02/2026 15:15,21/02/2027 15:15
 4513fa96-745c-4b3c-aa75-ae4483070a59,segregation.pro,available,4.99,,62,2,11,name.com,,
-4577659b-c1ab-46ae-b3a5-5efdb002ad84,carbonmonoxide.pro,available,4.99,,54,4,15,name.com,,
+4577659b-c1ab-46ae-b3a5-5efdb002ad84,carbonmonoxide.pro,available,4.99,,54,3,15,name.com,,
 484cb401-5176-4400-b58d-644b89bfb609,ladder.pro,resell,,,76,19,6,"Chengdu West Dimension Digital Technology Co., Ltd.",14/01/2020 10:10,14/01/2027 10:10
 48555d7e-329e-450c-80c9-98d448a76f23,blewagasket.pro,available,3.58,29.49,34,1,13,namesilo,,
 4859642d-2d68-4682-bcef-39e79d049507,turnorburn.pro,available,4.99,,56,1,12,name.com,,
@@ -168,7 +168,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5b069f42-dce7-42b3-8ac2-b58d4135a4f8,fullfrontalnudity.pro,available,4.99,,48,1,19,name.com,,
 5d16ab3a-fea9-44f8-b2e2-59121009909e,deteriorates.pro,available,3.58,29.49,38,1,12,namesilo,,
 5dd95f84-25aa-4167-83c7-6b9dc056a9f0,havetheblues.pro,available,4.99,,58,1,14,name.com,,
-5ddec1a0-aa08-4101-a82e-339853896e86,filings.pro,available,4.99,,48,8,7,name.com,,
+5ddec1a0-aa08-4101-a82e-339853896e86,filings.pro,available,4.99,,48,7,7,name.com,,
 5e49ddf5-c7cd-444b-a2c0-eff21fc6f0d6,shells.pro,available,3.58,29.49,58,9,6,namesilo,,
 5e8305c8-6adb-420b-a930-366a847bb134,alcoholusedisorder.pro,available,4.99,,48,1,20,name.com,,
 5ecec0de-b86b-440e-ba22-adc47eec3d40,proxyfight.pro,available,4.99,,44,1,11,name.com,,
@@ -232,7 +232,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 797531fd-05c1-4d8b-8db4-308abb97da33,germs.pro,available,3.58,29.49,40,5,5,namesilo,,
 79962b8b-ad37-467b-82bf-a43eef98af86,motorsport.pro,resell,,,74,23,10,Netregistry Wholesale Pty Ltd,28/12/2023 17:00,28/12/2026 17:00
 7af56dda-652c-48b1-9147-c6d7f58e1f9a,startover.pro,available,4.99,,78,6,10,name.com,,
-7b9aa1c4-c0dc-4aea-8017-21b259dc69a6,flashflooding.pro,available,4.99,,52,0,14,name.com,,
+7b9aa1c4-c0dc-4aea-8017-21b259dc69a6,flashflooding.pro,available,4.99,,52,1,14,name.com,,
 7c6dc286-f5c5-43b7-b414-413ca3c366f2,hangbyathread.pro,available,4.99,,56,1,16,name.com,,
 7cb8aa3a-f400-4ed6-a498-643d027ce868,waitforit.pro,available,4.99,,43,4,11,name.com,,
 7d1b75d3-5aa0-40de-b44d-5007c39d082c,collapsing.pro,available,4.99,,38,3,10,name.com,,
@@ -243,7 +243,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7f6ad8e9-3736-47ec-97bc-593a4d10c880,gettheboot.pro,available,3.58,29.49,70,1,12,namesilo,,
 7f8f678a-81eb-44b8-84ea-229b24c10402,howtheheck.pro,available,3.58,29.49,48,1,12,namesilo,,
 7facb805-d325-4d6c-944d-1fa647505f8f,PopeGregoryI.pro,available,33.98,,28,1,14,namecheap,,
-8039f404-7c1d-427c-9b4f-ab93dddf336d,lunchtime.pro,available,4.99,,78,8,10,name.com,,
+8039f404-7c1d-427c-9b4f-ab93dddf336d,lunchtime.pro,available,4.99,,78,9,10,name.com,,
 81a0409d-db3d-4ccd-b71a-b0112457ff74,pops.pro,resell,,,74,24,4,"Sav.com, LLC - 46",09/04/2026 15:15,09/04/2027 15:15
 81ae4c76-46a5-4b27-9bc8-a61f4f46d548,alternatives.pro,resell,,,58,13,12,"Sav.com, LLC - 30",23/06/2025 15:15,23/06/2026 15:15
 8361d1e4-1c6b-40c2-baf3-d4b7963ed712,appraised.pro,resell,,,50,4,9,"Sav.com, LLC - 4",16/04/2026 15:16,16/04/2027 15:16
@@ -258,6 +258,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 89152d14-d2b2-4037-abb7-bb879b56f9e6,couldnotcareless.pro,available,4.99,,38,1,19,name.com,,
 893bf176-2a0c-4411-b215-36648ac2454f,taxfree.pro,resell,,,68,11,8,"Sav.com, LLC - 43",27/02/2026 15:15,27/02/2027 15:15
 893e38a4-515b-4c80-a3c2-961ea8409667,filetypes.pro,available,3.58,29.49,46,3,9,namesilo,,
+89b33772-d676-42d2-a594-b8f461c61f3c,studs.pro,available,3.58,29.49,69,9,5,namesilo,,
 89bdfdfe-c4e6-4d42-a1b1-dfdf7b243310,doup.pro,resell,,,70,5,5,"NameCheap, Inc.",13/01/2026 17:06,13/01/2027 17:06
 89d5ec73-ea20-4a85-bb4b-17ed64100d45,Ihavecancer.pro,available,33.98,,44,2,13,namecheap,,
 89f2d762-ab54-4b17-be70-8c4f7f4fb3be,printers.pro,resell,,,59,10,8,"Sav.com, LLC - 12",19/08/2022 13:15,19/08/2026 13:15
@@ -319,7 +320,6 @@ a3b77228-a024-4062-9e4b-22f511d74386,beans.pro,resell,,,74,21,5,Netregistry Whol
 a3d23043-f5ce-4264-9d79-3375bcc30c5a,disappoints.pro,available,3.58,29.49,36,1,11,namesilo,,
 a44afcb1-2f3b-4244-ad3b-7928120a3b8f,goberserk.pro,available,4.99,,68,1,10,name.com,,
 a45acc7d-ccb0-4196-8cdd-764e50eeebf9,neighbourhood.pro,resell,,,70,14,13,Mesh Digital Limited,04/07/2025 20:43,04/07/2026 20:43
-a4e72b9c-3730-4944-b55b-2a3d9455c26a,todolist.pro,resell,,,73,12,10,"Sav.com, LLC - 40",31/03/2025 15:15,31/03/2027 15:15
 a640d944-b8bc-4b9d-9344-7757e9ca2a36,estimates.pro,available,3.58,29.49,50,7,9,namesilo,,
 a6681b31-18e7-4397-b466-18f600042ca2,spillover.pro,available,4.99,,68,4,10,name.com,,
 a683de70-7ab6-4131-9cc6-497cec8aa5e8,disobedience.pro,available,4.99,,64,3,12,name.com,,
@@ -359,7 +359,7 @@ b26afe31-fd83-42bd-be3d-cbf4c55c6012,lactoseintolerance.pro,available,4.99,,56,2
 b28af77d-b5be-4a8e-90b7-259694350c21,bedamned.pro,available,4.99,,38,1,9,name.com,,
 b2a90d35-cb49-4a32-a4e4-0e372013d24b,Alexis.pro,resell,,,72,21,6,Netregistry Wholesale Pty Ltd,14/10/2024 17:00,14/10/2026 17:00
 b3278e0e-e564-49dd-b23b-3040ff426f24,tradeunion.pro,available,4.99,,68,3,11,name.com,,
-b36d227a-3f21-497b-b2c2-b285708698e0,gods.pro,premium,1355.07,,72,27,4,Netregistry Wholesale Pty Ltd,09/04/2024 17:00,09/04/2027 17:00
+b36d227a-3f21-497b-b2c2-b285708698e0,gods.pro,resell,1355.07,,72,29,4,"GKG.NET, INC.",09/04/2024 17:00,09/04/2027 17:00
 b419a376-fa7a-46f1-bba3-d97c248b6b8b,somuchso.pro,available,4.99,,50,1,10,name.com,,
 b45e2603-113d-46be-9c32-dbdfba2dcd5d,backbreaking.pro,available,4.99,,54,1,13,name.com,,
 b5abd54b-9392-4e44-981d-e5170c8d082f,fail.pro,resell,,,54,19,4,Dynadot1 LLC,01/08/2019 10:09,01/08/2027 10:09
@@ -402,14 +402,14 @@ c85a82a3-f9c8-4714-a7db-712617e163f5,functions.pro,resell,,,54,12,9,"Sav.com, LL
 c9da8e75-579b-4731-9098-8fb44dcd491d,comics.pro,resell,,,68,23,6,Dynadot Inc,23/12/2007 00:00,23/12/2026 00:00
 ca16b832-d071-4e8b-9dae-d13bde838e5c,shouts.pro,available,4.99,,47,5,6,name.com,,
 ca5ef9ff-1b5c-4d16-a3f7-b898fa32a474,CapeCod.pro,resell,,,78,22,8,"Sav.com, LLC - 27",22/03/2025 15:15,22/03/2027 15:15
-cb02e5f2-5efa-4063-a29a-59e49d2f354e,etc.pro,premium,3125,,58,34,3,name.com,,
+cb02e5f2-5efa-4063-a29a-59e49d2f354e,etc.pro,premium,3125,,58,32,3,name.com,,
 cb6c7e82-4754-49c2-8b22-f93aefa18064,divorcing.pro,available,4.99,,46,6,9,name.com,,
 cbaec765-c152-4c46-9b9f-a3caad7bda35,alcoholpoisoning.pro,available,4.99,,48,1,17,name.com,,
 cbe89211-f604-41c6-a688-585633d345a4,crash.pro,resell,,,66,32,5,Dynadot Inc,15/06/2018 10:08,15/06/2027 10:08
 ccf92e78-c756-43cc-8b33-74ed384c3bc1,counterterrorism.pro,available,4.99,,52,3,17,name.com,,
 cd4ff67a-e06e-4727-a6b7-77f049efd6a2,sucked.pro,available,4.99,,54,4,6,name.com,,
 ce17c605-5a2c-4648-ba0b-676e2f79c6d2,pricing.pro,resell,,,72,20,7,Dynadot Inc,21/01/2020 10:11,21/01/2027 10:11
-ce620013-8bfd-41b5-a691-1effb4abc21d,filewith.pro,available,4.99,,68,2,9,name.com,,
+ce620013-8bfd-41b5-a691-1effb4abc21d,filewith.pro,available,4.99,,68,1,9,name.com,,
 cec8e75a-b67c-4217-a1e8-81129e7919ba,fasttracks.pro,available,3.58,29.49,56,4,11,namesilo,,
 d0f722d2-87d0-4a3b-92cb-e857561327b3,conquer.pro,resell,,,83,19,7,Dynadot Inc,19/07/2019 10:09,19/07/2027 10:09
 d1697589-6681-4d0e-87a3-7855bb00b41e,havenots.pro,available,4.99,,60,4,9,name.com,,
@@ -426,7 +426,7 @@ d495ebf0-9669-490a-8ed9-6250362a5b90,behindschedule.pro,available,4.99,,38,1,15,
 d4c643db-a27a-42dc-96b8-dccbce010002,rivals.pro,resell,,,48,20,6,GoDaddy Online Services Cayman Islands Ltd.,24/06/2012 02:26,24/06/2026 02:26
 d61654a4-6c36-41a5-8922-ce447c9a345c,deaths.pro,available,3.58,29.49,50,6,6,namesilo,,
 d632a201-48c5-4daa-addd-0515669ec0b3,unsettles.pro,available,3.58,29.49,43,1,9,namesilo,,
-d69a419c-6bc1-4267-9095-df358f5a281f,sexualassault.pro,available,4.99,,43,3,14,name.com,,
+d69a419c-6bc1-4267-9095-df358f5a281f,sexualassault.pro,available,4.99,,43,2,14,name.com,,
 d7ec7cb0-a640-4bca-9b8a-f8504548a918,strepthroat.pro,available,4.99,,68,2,12,name.com,,
 d8261106-8d76-4ef4-9a57-a57dc3829d51,hollows.pro,available,4.99,,44,5,7,name.com,,
 d82ca039-c578-4d78-b8bb-165dec2f9dd9,keepunder.pro,available,4.99,,66,0,10,name.com,,
@@ -473,7 +473,7 @@ e98c7f55-c2f8-4333-9cb5-f7f812a2e14b,number.pro,resell,,,78,24,6,Squarespace Dom
 e999fcb9-a290-4f4b-b425-3d59b60495b6,generations.pro,resell,,,56,20,11,"Sav.com, LLC - 6",08/11/2025 15:15,08/11/2026 15:15
 e9cb0d8b-51c2-4969-84e9-b0febcdeb287,childrapist.pro,available,4.99,,38,1,12,name.com,,
 e9d1c3fb-1586-48b3-b475-ea6d7abf2a4a,failures.pro,available,4.99,,46,5,8,name.com,,
-ea300762-420a-4c94-8780-0fcbf0247d7b,indanger.pro,available,4.99,,60,1,9,name.com,,
+ea300762-420a-4c94-8780-0fcbf0247d7b,indanger.pro,available,4.99,,60,2,9,name.com,,
 ea7d2930-047a-41d5-b0b5-b4ed33e3019b,refusing.pro,available,4.99,,40,3,8,name.com,,
 eab57b36-6aab-4b81-aa4a-06f123144ef6,backs.pro,available,4.99,,56,5,5,name.com,,
 eac9aacb-c0d0-4982-b3bb-fe5f452e6faf,finalstraw.pro,available,4.99,,66,2,11,name.com,,
