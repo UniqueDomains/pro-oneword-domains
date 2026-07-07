@@ -1,10 +1,10 @@
-# Available .PRO One-Word Domains (66,336)
+# Available .PRO One-Word Domains (66,334)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-66%2C336%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-66%2C334%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .pro one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **66,336 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **66,334 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 66,336 domains · **Median ask:** $397.79 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 66,334 domains · **Median ask:** $184.40 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/pro`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/pro`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .PRO one-word domain c
 
 ### Files
 
-- `pro.csv` — public CSV extract (1,000 rows)
-- `pro.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `pro.csv`, public CSV extract (1,000 rows)
+- `pro.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                            |
-| -------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------ |
-| hardcheese.pro | available | $4.99      | $33.99        | 78             | 72     | 11     | name.com                             |
-| gods.pro       | resell    | $1,355.07  | —             | 72             | 29     | 4      | GKG.NET, INC.                        |
-| etc.pro        | premium   | $3,125     | —             | 58             | 32     | 3      | name.com                             |
-| crows.pro      | available | $3.58      | $29.49        | 68             | 12     | 5      | namesilo                             |
-| gadget.pro     | resell    | —          | —             | 74             | 96     | 6      | Porkbun LLC                          |
-| styling.pro    | premium   | $21,188.34 | —             | 78             | 11     | 7      | Dynadot Inc                          |
-| Amazons.pro    | available | $3.58      | $29.49        | 60             | 12     | 7      | namesilo                             |
-| tequila.pro    | resell    | —          | —             | 64             | 96     | 7      | Sav.com, LLC - 4                     |
-| Joe.pro        | premium   | —          | —             | 74             | 100    | 3      | —                                    |
-| gives.pro      | available | $4.99      | —             | 52             | 12     | 5      | name.com                             |
-| harry.pro      | resell    | —          | —             | 58             | 96     | 5      | Dynadot5 LLC                         |
-| MSN.pro        | premium   | —          | —             | 52             | 100    | 3      | —                                    |
-| prayers.pro    | available | $4.99      | —             | 62             | 11     | 7      | name.com                             |
-| method.pro     | resell    | —          | —             | 94             | 92     | 6      | GKG.NET, INC.                        |
-| mondrian.pro   | premium   | —          | —             | 66             | 96     | 8      | —                                    |
-| failed.pro     | available | $4.99      | —             | 60             | 11     | 6      | name.com                             |
-| anchor.pro     | resell    | —          | —             | 62             | 88     | 6      | Registrar of Domain Names REG.RU LLC |
-| retime.pro     | premium   | —          | —             | 78             | 92     | 6      | —                                    |
-| mynameis.pro   | available | $4.99      | —             | 50             | 11     | 10     | name.com                             |
-| signer.pro     | resell    | —          | —             | 60             | 88     | 6      | Epik LLC                             |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                            |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------ |
+| abbot.pro  | available | $4.99     | $33.99        | medium         | high   | 5      | name.com                             |
+| acre.pro   | resell    | —         | —             | medium         | low    | 4      | AccentDomains LLC                    |
+| but.pro    | premium   | $242      | $242          | high           | low    | 3      | namesilo                             |
+| damned.pro | available | $3.58     | $29.49        | medium         | low    | 6      | namesilo                             |
+| airy.pro   | resell    | —         | —             | high           | low    | 4      | Epik LLC                             |
+| day.pro    | premium   | $3,125    | —             | high           | low    | 3      | name.com                             |
+| gaslit.pro | available | $4.99     | —             | medium         | low    | 6      | name.com                             |
+| clam.pro   | resell    | —         | —             | high           | low    | 4      | Unstoppable Domains Inc              |
+| DJI.pro    | premium   | $500      | —             | high           | low    | 3      | name.com                             |
+| getto.pro  | available | $3.58     | $29.49        | high           | low    | 6      | namesilo                             |
+| flag.pro   | resell    | —         | —             | high           | high   | 4      | Registrar of Domain Names REG.RU LLC |
+| hic.pro    | premium   | $242      | $242          | high           | low    | 3      | namesilo                             |
+| learns.pro | available | $3.58     | $29.49        | medium         | low    | 6      | namesilo                             |
+| kill.pro   | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 8                     |
+| meddle.pro | available | $3.58     | $29.49        | medium         | low    | 6      | namesilo                             |
+| oslo.pro   | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 35                    |
+| algore.pro | available | $3.58     | $29.49        | high           | low    | 7      | namesilo                             |
+| pass.pro   | resell    | —         | —             | high           | medium | 4      | Dynadot3 LLC                         |
+| getrid.pro | available | $3.58     | $29.49        | medium         | low    | 7      | namesilo                             |
+| rail.pro   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 66,336 live domains                        |
+| 1,000-row public sample | 66,334 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are single-word names on the .pro extension. The set includes dictionary-style words, action words, technical terms, and abstract brandables such as compound.pro, option.pro, synthetic.pro, redo.pro, and imperial.pro. For founders, the main question is whether a name feels credible, easy to say, and specific enough for a professional brand. For investors, the focus is tighter: entry price, renewal burden, and whether the word has broad commercial use. With a median ask near $401, this selection sits in a range where wording quality matters more than stretch pricing. Favor names that are clear, memorable, and commercially versatile.
+This is a list of one-word .PRO domain names, spanning everyday words, action verbs, and short brandable terms such as clay.pro, sauce.pro, and understand.pro. The .PRO extension began as a professional-focused alternative to .com and now hosts a wide range of ownable, single-word names. Across this set of 66,334 domains, the median asking price is about $184.40, giving both founders and investors a consistent reference point for comparing value across listings.
 
-- Prioritize clear words with strong recall and clean pronunciation
-- Check whether the word fits a professional or expert positioning
-- Compare asking price against the word's breadth of commercial use
-- Be cautious with terms that may raise trademark questions
+- 66,334 one-word .PRO domain names in this set
+- Median asking price: $184.40
+- Short, brandable names like clay.pro and facts.pro
+- Updated daily to reflect current availability and pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PRO One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PRO One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
