@@ -1,10 +1,10 @@
-# Available .PRO One-Word Domains (73,437)
+# Available .PRO One-Word Domains (73,706)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-73%2C437%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-73%2C706%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .pro one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **73,437 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **73,706 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 73,437 domains · **Median ask:** $65.53 · **High-demand under $2,500:** 103
+**Public extract:** 1,000 rows · **Live catalog:** 73,706 domains · **Median ask:** $64.03 · **High-demand under $2,500:** 103
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/pro`
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | acre.pro   | resell    | —         | —             | medium         | low    | 4      | AccentDomains LLC                    |
 | but.pro    | premium   | $242      | $242          | high           | low    | 3      | namesilo                             |
 | lvii.pro   | available | $3.48     | $33.98        | low            | low    | 4      | namecheap                            |
-| airy.pro   | resell    | —         | —             | high           | low    | 4      | Epik LLC                             |
+| clam.pro   | resell    | —         | —             | high           | low    | 4      | Unstoppable Domains Inc              |
 | day.pro    | premium   | $3,125    | —             | high           | low    | 3      | name.com                             |
 | rimy.pro   | available | $1.98     | $33.98        | low            | low    | 4      | namecheap                            |
-| clam.pro   | resell    | —         | —             | high           | low    | 4      | Unstoppable Domains Inc              |
+| flag.pro   | resell    | —         | —             | high           | high   | 4      | Registrar of Domain Names REG.RU LLC |
 | DJI.pro    | premium   | $500      | —             | high           | low    | 3      | name.com                             |
 | tush.pro   | available | $3.48     | $33.98        | low            | low    | 4      | namecheap                            |
-| flag.pro   | resell    | —         | —             | high           | high   | 4      | Registrar of Domain Names REG.RU LLC |
-| hic.pro    | premium   | $242      | $242          | high           | low    | 3      | namesilo                             |
-| zoic.pro   | available | $1.98     | $33.98        | low            | low    | 4      | namecheap                            |
 | kill.pro   | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 8                     |
-| abbot.pro  | available | $4.99     | $33.99        | medium         | high   | 5      | name.com                             |
+| elk.pro    | premium   | $512      | $512          | low            | low    | 3      | namesilo                             |
+| zoic.pro   | available | $1.98     | $33.98        | low            | low    | 4      | namecheap                            |
 | oslo.pro   | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 35                    |
-| damned.pro | available | $3.58     | $29.49        | medium         | low    | 6      | namesilo                             |
+| hic.pro    | premium   | $242      | $242          | high           | low    | 3      | namesilo                             |
+| abbot.pro  | available | $3.58     | $29.49        | low            | low    | 5      | namesilo                             |
 | pass.pro   | resell    | —         | —             | high           | medium | 4      | Dynadot3 LLC                         |
-| docile.pro | available | $3.48     | $33.98        | low            | low    | 6      | namecheap                            |
+| damned.pro | available | $3.58     | $29.49        | medium         | low    | 6      | namesilo                             |
 | rail.pro   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                          |
+| docile.pro | available | $3.48     | $33.98        | low            | low    | 6      | namecheap                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 73,437 live domains                        |
+| 1,000-row public sample | 73,706 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 103 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PRO One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PRO One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
