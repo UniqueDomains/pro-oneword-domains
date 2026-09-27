@@ -1,10 +1,10 @@
-# Available .PRO One-Word Domains (39,590)
+# Available .PRO One-Word Domains (39,578)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-39%2C590%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-39%2C578%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .pro one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **39,590 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **39,578 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 39,590 domains · **Median ask:** $98.00 · **High-demand under $2,500:** 328
+**Public extract:** 1,000 rows · **Live catalog:** 39,578 domains · **Median ask:** $104.92 · **High-demand under $2,500:** 563
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/pro`
@@ -72,16 +72,16 @@ print(df.head())
 | ass.pro   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo          |
 | rube.pro  | available | $3.48     | $33.98        | medium         | low    | 4      | namecheap         |
 | boat.pro  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
-| ccp.pro   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo          |
+| bsa.pro   | premium   | $512      | $512          | high           | high   | 3      | namesilo          |
 | rubs.pro  | available | $3.48     | $33.98        | medium         | low    | 4      | namecheap         |
 | doer.pro  | resell    | —         | —             | high           | high   | 4      | Dynadot Inc       |
-| cfo.pro   | premium   | $3,250    | $3,250        | high           | low    | 3      | namecheap         |
+| ccp.pro   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo          |
 | xciv.pro  | available | $3.48     | $33.98        | medium         | low    | 4      | namecheap         |
 | evil.pro  | resell    | —         | —             | high           | medium | 4      | Dynadot2 LLC      |
-| did.pro   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo          |
+| cfo.pro   | premium   | $3,250    | $3,250        | high           | low    | 3      | namecheap         |
 | afoot.pro | available | $3.48     | $33.98        | high           | low    | 5      | namecheap         |
 | hurt.pro  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
-| gao.pro   | premium   | $512      | $512          | high           | low    | 3      | namesilo          |
+| did.pro   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo          |
 | alkyl.pro | available | $3.48     | $33.98        | high           | low    | 5      | namecheap         |
 | jena.pro  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 49 |
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 39,590 live domains                        |
+| 1,000-row public sample | 39,578 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 328 high-demand names under $2,500         |
+| Basic exported fields   | 563 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
