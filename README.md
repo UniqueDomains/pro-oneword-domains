@@ -1,10 +1,10 @@
-# Available .PRO One-Word Domains (42,557)
+# Available .PRO One-Word Domains (43,443)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-42%2C557%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-43%2C443%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .pro one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **42,557 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **43,443 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 42,557 domains · **Median ask:** $85.48 · **High-demand under $2,500:** 655
+**Public extract:** 1,000 rows · **Live catalog:** 43,443 domains · **Median ask:** $84.78 · **High-demand under $2,500:** 674
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/pro`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| eyry.pro  | available | $3.48     | $33.98        | high           | low    | 4      | namecheap         |
-| some.pro  | resell    | $2,706.58 | —             | high           | low    | 4      | GKG.NET, INC.     |
-| ano.pro   | premium   | $242      | $242          | high           | low    | 3      | namesilo          |
-| fdic.pro  | available | $3.58     | $29.49        | high           | low    | 4      | namesilo          |
-| bats.pro  | resell    | —         | —             | high           | low    | 4      | Epik LLC          |
-| ass.pro   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo          |
-| hiss.pro  | available | $3.58     | $29.49        | high           | low    | 4      | namesilo          |
-| boat.pro  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
-| bao.pro   | premium   | $400.50   | —             | medium         | low    | 3      | unstoppable       |
-| xciv.pro  | available | $3.48     | $33.98        | medium         | low    | 4      | namecheap         |
-| doer.pro  | resell    | —         | —             | high           | high   | 4      | Dynadot Inc       |
-| bsa.pro   | premium   | $414.20   | $414.20       | high           | low    | 3      | spaceship         |
-| afoot.pro | available | $3.48     | $33.98        | high           | low    | 5      | namecheap         |
-| evil.pro  | resell    | —         | —             | high           | medium | 4      | Dynadot2 LLC      |
-| ccp.pro   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo          |
-| alkyl.pro | available | $3.48     | $33.98        | high           | low    | 5      | namecheap         |
-| hurt.pro  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
-| cfo.pro   | premium   | $3,250    | $3,250        | high           | low    | 3      | namecheap         |
-| blitt.pro | available | $3.58     | $29.49        | high           | low    | 5      | namesilo          |
-| jena.pro  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 49 |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
+| ebro.pro  | available | $4        | —             | high           | low    | 4      | unstoppable   |
+| some.pro  | resell    | $2,706.58 | —             | high           | low    | 4      | GKG.NET, INC. |
+| ano.pro   | premium   | $242      | $242          | high           | low    | 3      | namesilo      |
+| eyry.pro  | available | $3.48     | $33.98        | high           | low    | 4      | namecheap     |
+| bats.pro  | resell    | —         | —             | high           | low    | 4      | Epik LLC      |
+| ass.pro   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo      |
+| fdic.pro  | available | $3.58     | $29.49        | high           | low    | 4      | namesilo      |
+| boat.pro  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC   |
+| bao.pro   | premium   | $400.50   | —             | medium         | low    | 3      | unstoppable   |
+| hiss.pro  | available | $3.58     | $29.49        | high           | low    | 4      | namesilo      |
+| doer.pro  | resell    | —         | —             | high           | high   | 4      | Dynadot Inc   |
+| bsa.pro   | premium   | $414.20   | $414.20       | high           | low    | 3      | spaceship     |
+| xciv.pro  | available | $3.48     | $33.98        | medium         | low    | 4      | namecheap     |
+| evil.pro  | resell    | —         | —             | high           | medium | 4      | Dynadot2 LLC  |
+| ccp.pro   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo      |
+| afoot.pro | available | $3.48     | $33.98        | high           | low    | 5      | namecheap     |
+| gust.pro  | resell    | —         | —             | high           | low    | 4      | —             |
+| cfo.pro   | premium   | $3,250    | $3,250        | high           | low    | 3      | namecheap     |
+| alkyl.pro | available | $3.48     | $33.98        | high           | low    | 5      | namecheap     |
+| hurt.pro  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 42,557 live domains                        |
+| 1,000-row public sample | 43,443 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 655 high-demand names under $2,500         |
+| Basic exported fields   | 674 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PRO One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PRO One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
